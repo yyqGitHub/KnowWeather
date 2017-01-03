@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:id="@+id/LL_future_day"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:layout_gravity="center_horizontal"
+              android:background="@color/colorPrimary"
+              android:gravity="center"
+              android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/TV_future_date"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/no_data"
+        android:textColor="@color/color_White"
+        android:textSize="@dimen/big_text"/>
+
+    <ImageView
+        android:id="@+id/IV_future_icon"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:contentDescription="@string/no_data"
+        />
+
+    <TextView
+        android:id="@+id/TV_future_temp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/no_data"
+        android:textColor="@color/color_White"
+        android:textSize="@dimen/big_text"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/TV_future_weather"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="@string/no_data"
+        android:textColor="@color/color_White"
+        android:textSize="@dimen/middle_text"
+        android:textStyle="bold"/>
+
+</LinearLayout>

@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">天气早知道</string>
+    <string name="author">我是小叶</string>
+    <string name="update_time">刷新时间</string>
+    <string name="setting">设置</string>
+    <string name="suggestion">指标建议</string>
+    <string name="feedback">意见反馈</string>
+    <string name="phone_number">联系方式</string>
+    <string name="description">问题描述</string>
+    <string name="sure_feedback">我要反馈</string>
+    <string name="input_not_null">输入框不能为空</string>
+    <string name="thankyou_feedback">谢谢反馈</string>
+    <string name="about">关于</string>
+    <string name="version_code">版本编码：</string>
+    <string name="version">版本号：</string>
+    <string name="cannot_get_version">无法获取版本号</string>
+    <string name="cannot_get_version_code">无法获取版本编码</string>
+    <string name="today_suggestion">:今天建议</string>
+    <string name="getting_location">正在定位中</string>
+    <string name="high_temp">高温标</string>
+    <string name="low_temp">低温标</string>
+    <string name="sunrise_time">日出时间：</string>
+    <string name="sunset_time">日落时间：</string>
+    <string name="highest_temp">最高温</string>
+    <string name="lowest_temp">最低温</string>
+</resources>

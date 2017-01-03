@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">KnowWeather</string>
+    <string name="author">YYQ_MAX</string>
+    <string name="map_key">AHyT52VS2ZMKnw0GMzKuYCxpxEVvgntp</string>
+    <string name="date_format">yyyy-MM-dd hh:mm:ss</string>
+    <string name="no_data">----</string>
+    <string name="update_time">Update</string>
+    <string name="title_activity_base">BaseActivity</string>
+    <string name="setting">Setting</string>
+    <string name="suggestion">Suggestion</string>
+    <string name="feedback">Feedback</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="description">Describe the question </string>
+    <string name="sure_feedback">I want to Feedback</string>
+    <string name="input_not_null">Please input something</string>
+    <string name="thankyou_feedback">Thank for feedbacking</string>
+    <string name="about">About</string>
+    <string name="version_code">VersionCode：</string>
+    <string name="version">Version：</string>
+    <string name="cannot_get_version">Cannot get Version</string>
+    <string name="cannot_get_version_code">Cannot get VersionCode</string>
+    <string name="today_suggestion">:Today Suggestion</string>
+    <string name="getting_location">Getting Location</string>
+    <string name="high_temp">High Temp</string>
+    <string name="low_temp">Low Temp</string>
+    <string name="sunrise_time">Sunrise Time：</string>
+    <string name="sunset_time">Sunset Time：</string>
+    <string name="highest_temp">Highest Temp</string>
+    <string name="lowest_temp">Lowest Temp</string>
+</resources>

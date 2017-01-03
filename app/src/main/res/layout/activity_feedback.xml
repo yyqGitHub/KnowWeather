@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    tools:context="com.example.maxenia.knowweather.ui.FeedbackActivity">
+
+    <EditText
+        android:id="@+id/ET_phone"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:background="@drawable/edit_bg"
+        android:hint="@string/phone_number"
+        android:inputType="phone"
+        />
+
+    <EditText
+        android:id="@+id/ET_description"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/edit_bg"
+        android:gravity="top"
+        android:hint="@string/description"/>
+
+    <Button
+        android:id="@+id/Btn_feedback"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/button_bg"
+        android:text="@string/sure_feedback"
+        android:textColor="@color/color_White"/>
+</LinearLayout>
